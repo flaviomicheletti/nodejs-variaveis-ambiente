@@ -1,3 +1,5 @@
+![dotenv](https://user-images.githubusercontent.com/1257048/86244251-0e651380-bb7e-11ea-9cfa-e0be5dfe46e1.jpg)
+
 # Variáveis de ambiente no Node
 
 https://www.npmjs.com/package/dotenv
